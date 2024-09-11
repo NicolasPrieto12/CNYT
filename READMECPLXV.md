@@ -23,3 +23,9 @@ Esta librería está diseñada para realizar operaciones matemáticas con vector
 16. Verificación de si una matriz es unitaria.
 17. Verificación de si una matriz es Hermitiana.
 18. Producto tensor de dos matrices/vectores.
+
+## Contenido
+
+1. CmplxVector desarrollo del taller con los 18 puntos solucionados
+2. READMECPLXV que es este archivo en el que dice la explicación de lo que se hizo en el taller
+3. gitiignore que son las funciones que ignora este taller para tener el repositorio más limpio, optimiza el rendimient.
