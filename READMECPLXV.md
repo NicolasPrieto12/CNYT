@@ -1,6 +1,6 @@
 # Librería de Operaciones con Vectores y Matrices Complejas
 
-## Autora: Nicolas David Prieto Ramos
+## Autor: Nicolas David Prieto Ramos
 Esta librería está diseñada para realizar operaciones matemáticas con vectores y matrices complejas. Incluye una serie de funciones que permiten manipular y calcular propiedades de estas estructuras matemáticas.
 
 ## Funciones Disponibles
